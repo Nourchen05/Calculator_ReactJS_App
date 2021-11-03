@@ -1,6 +1,6 @@
-#Calculator React App
+# Calculator React App
 
-Click to the website to see the result
+Click to the website to see directly the result :
 https://calculator-react-nourchen.herokuapp.com/
 
 # Getting Started with Create React App
