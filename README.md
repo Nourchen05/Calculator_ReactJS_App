@@ -15,7 +15,10 @@ https://calculator-react-nourchen.herokuapp.com/
 To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
 
     # Clone this repository
-    $ git clone https://github.com/your-user-name/your-project-name
+    $ git clone https://github.com/Nourchen05/Calculator_ReactJS_App.git
+    
+    # Change directory
+    $ cd Calculator_ReactJS_App
 
     # Install dependencies
     $ npm install
